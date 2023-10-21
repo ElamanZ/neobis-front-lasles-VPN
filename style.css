@@ -80,9 +80,13 @@ body {
 }
 
 .menu__item a {
-    color: #4F5665;
+    color: #393b42;
     text-decoration: none;
     font-weight: 400;
+}
+
+.menu__item a:hover {
+    color: #7e7e80;
 }
 
 .buttons {
@@ -644,6 +648,9 @@ body {
     color: #4F5665;
     text-decoration: none;
     font-weight: 400;
+}
+.footer__list__item a:hover {
+    color: #7e7e80;
 }
 
 .footer__content {
